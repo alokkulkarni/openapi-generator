@@ -15,7 +15,7 @@
     "build": "ngc && npm pack"
   },
   "peerDependencies": {
-    "@angular/core": "^2.0.0",
+    "@angular/core": "^19.2.19",
     "@angular/http": "^2.0.0",
     "@angular/common": "^2.0.0",
     "@angular/compiler": "^2.0.0",
@@ -27,7 +27,7 @@
     "@angular/common": "^2.0.0",
     "@angular/compiler": "^2.0.0",
     "@angular/compiler-cli": "^2.0.0",
-    "@angular/core": "^2.0.0",
+    "@angular/core": "^19.2.19",
     "@angular/http": "^2.0.0",
     "@angular/platform-browser": "^2.0.0",
     "reflect-metadata": "^0.1.3",
