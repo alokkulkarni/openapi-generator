@@ -13,7 +13,7 @@
     "build": "typings install && tsc --outDir dist/"
   },
   "peerDependencies": {
-    "@angular/core": "^2.0.0",
+    "@angular/core": "^21.2.8",
     "@angular/http": "^2.0.0",
     "@angular/common": "^2.0.0",
     "@angular/compiler": "^2.0.0",
@@ -23,7 +23,7 @@
     "zone.js": "^0.6.17"
   },
   "devDependencies": {
-    "@angular/core": "^2.0.0",
+    "@angular/core": "^21.2.8",
     "@angular/http": "^2.0.0",
     "@angular/common": "^2.0.0",
     "@angular/compiler": "^2.0.0",
